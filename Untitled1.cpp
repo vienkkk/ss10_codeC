@@ -13,7 +13,7 @@ int main(){
 	scanf("%d",&b); 
 	for(int i=0;i<n;i++){
 		if(b==a[i]){
-			printf("vi tri %d",i); 
+			printf("vi tri %d",i)
 			break; 
 		} 
 	} 
